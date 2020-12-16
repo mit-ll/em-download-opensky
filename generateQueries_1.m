@@ -1,4 +1,4 @@
-function [queries,groups,boxLat_deg,boxLon_deg,minAlt_m_msl,maxAlt_m_msl] = generateQueries(fileAirspace,varargin)
+function [queries,groups,boxLat_deg,boxLon_deg,minAlt_m_msl,maxAlt_m_msl] = generateQueries_1(fileAirspace,varargin)
 % Copyright 2018 - 2020, MIT Lincoln Laboratory
 % SPDX-License-Identifier: BSD-2-Clause
 
