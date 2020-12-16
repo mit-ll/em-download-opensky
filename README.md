@@ -209,7 +209,7 @@ Please use the appropriate documents listed in [`em-overview/README`](https://gi
 
 Please use this DOI number reference when citing the software:
 
-**Fill in once released**
+[![DOI](https://zenodo.org/badge/322106468.svg)](https://zenodo.org/badge/latestdoi/322106468)
 
 ### Processing
 
