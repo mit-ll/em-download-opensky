@@ -1,0 +1,5 @@
+SPDXVersion: SPDX-2.1
+PackageName: em-download-opensky
+PackageOriginator: MIT Lincoln Laboratory
+PackageHomePage: https://github.com/Airspace-Encounter-Models/em-download-opensky
+PackageLicenseDeclared: BSD-2-Clause
