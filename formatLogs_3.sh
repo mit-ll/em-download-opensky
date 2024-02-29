@@ -1,5 +1,5 @@
 #!/bin/bash
-# Copyright 2018 - 2020, MIT Lincoln Laboratory
+# Copyright 2018 - 2024, MIT Lincoln Laboratory
 # SPDX-License-Identifier: BSD-2-Clause
 #
 # $1 : Name of file of an OpenSk Network logged query to be parsed
